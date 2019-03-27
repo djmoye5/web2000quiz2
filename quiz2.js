@@ -13,9 +13,9 @@ recipeContainer.innerHTML += `
     </ul>
 </div>
 <div class= "row">
-    <div class= "col-3"> <img src="ice-cream.jpg" alt="Oreo" width= 250px height= 200px></div>
+    <div class= "col-3"> <img src="ice-cream.JPG" alt="Oreo" width= 250px height= 200px></div>
     <div class= "col-3"> <img src="cookies.jpg" alt="Cookies" width= 200px height= 200px></div>
     <div class= "col-3"> <img src="mmminis.jpg" alt="MMM" width= 200px height= 200px></div>
-    <div class= "col-3"> <img src="pb.jpg" alt="Reese's" width= 200px height= 200px></div>
+    <div class= "col-3"> <img src="pb.JPG" alt="Reese's" width= 200px height= 200px></div>
 </div>
 `
